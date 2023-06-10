@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fergg\\code\\RabbitMQReceiver\\Receiver\\Receiver.csproj": {}
+    "C:\\Users\\fergg\\code\\RabbitMQReceiver\\receiver\\Receiver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fergg\\code\\RabbitMQReceiver\\Receiver\\Receiver.csproj": {
+    "C:\\Users\\fergg\\code\\RabbitMQReceiver\\receiver\\Receiver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\Receiver\\Receiver.csproj",
+        "projectUniqueName": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\receiver\\Receiver.csproj",
         "projectName": "Receiver",
-        "projectPath": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\Receiver\\Receiver.csproj",
+        "projectPath": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\receiver\\Receiver.csproj",
         "packagesPath": "C:\\Users\\fergg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\Receiver\\obj\\",
+        "outputPath": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\receiver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fergg\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zy8Qmj8Z+myz+Hhe0raWXJO5ap/75B3MbKJYvqb0op3AMWsnQNQonkhJu/doSGDv0/jx4hbII+anLAwZsHNuqQ==",
+  "dgSpecHash": "v7IqjMana4vWFK0SX2Dxo1JNLG9zy9WTbMSMjEO6n9/Cw0wf6BrLIQUFYjfy898uVzdy8AwZBB7S+K5UIsqYuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\Receiver\\Receiver.csproj",
+  "projectFilePath": "C:\\Users\\fergg\\code\\RabbitMQReceiver\\receiver\\Receiver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fergg\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
     "C:\\Users\\fergg\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
